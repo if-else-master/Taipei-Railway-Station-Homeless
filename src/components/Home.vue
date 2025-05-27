@@ -6,7 +6,7 @@ import Btn from '@/components/Btn.vue'
 
     <div id="title" class="leading-15 text-white">
         <div class="text-left animate__animated animate__fadeInDown">
-            <span class="text-5xl ml-10 ">你聽過</span><br>
+            <span class="text-5xl ml-10 ">你聽過Ｘ</span><br>
         </div>
         <div class="text-right animate__animated animate__fadeIn">
             <span class="text-7xl text-center me-15 text-violet-200">無家者</span><br>
