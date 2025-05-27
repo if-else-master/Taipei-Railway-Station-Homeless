@@ -17,6 +17,7 @@ export default defineConfig({
       '@': fileURLToPath(new URL('./src', import.meta.url))
     },
   },
-  base: '/Taipei-Railway-Station-Homeless/dist/',
+  // base: '/Taipei-Railway-Station-Homeless/dist/',
+  base: '/Taipei-Railway-Station-Homeless/',
   // base: '/',
 })
