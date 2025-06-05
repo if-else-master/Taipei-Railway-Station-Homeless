@@ -18,6 +18,5 @@ export default defineConfig({
     },
   },
   base: '/Taipei-Railway-Station-Homeless/dist/',
-  //base: '/Taipei-Railway-Station-Homeless/',
   // base: '/',
 })
